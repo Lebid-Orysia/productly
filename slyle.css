@@ -333,14 +333,13 @@ footer {
 }
 
 .links h4,
-.stuff h4,
-{
-font-family: var(--third-family);
-font-weight: 700;
-font-size: 20px;
-line-height: 150%;
-color: #2F281E;
-margin-bottom: 30px;
+.stuff h4 {
+    font-family: var(--font-family);
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 150%;
+    color: #2F281E;
+    margin-bottom: 30px;
 }
 
 .links-list {
